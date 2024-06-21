@@ -1,6 +1,7 @@
 
-**For Running application use below steps**
+**For Running application use below command on terminal**
 
+- npm install
 - node server.js
 
 **After running application , Use Postman to send requests**
