@@ -2,6 +2,9 @@
 **For Running application use below command on terminal**
 
 - npm install
+
+  For Running application 
+
 - node server.js
 
 **After running application , Use Postman to send requests**
